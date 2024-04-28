@@ -1,2 +1,3 @@
 # Cable-damage-detection
-Detect and classify cable damage swiftly with our YOLOv4-based CNN solution. This project utilizes state-of-the-art deep learning techniques to identify cable breaks and thunderbolts in images. Enhance maintenance efficiency and reduce downtime
+
+"Welcome to our Cable Damage Detection and Classification project! This project represents the final outcome of our summer training in computer vision conducted by 'Applai' constitution. Leveraging YOLOv4 CNN technology, our solution detects and classifies cable damage, distinguishing between breaks and thunderbolts. Check out our presentation [here](https://docs.google.com/presentation/d/1QPydJxwyXC_OshmPkbyIty4x-BgYyJp0/edit?usp=sharing&ouid=100067621788661205999&rtpof=true&sd=true) for an overview of our approach and results
